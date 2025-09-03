@@ -43,5 +43,6 @@
   "label.projects.page.title": "Wykonane oraz obecne projekty:",
   "label.projects.page.description": "Konsekwentnie podchodzę do rozwiązywania problemów z wyraźnym naciskiem na dopasowanie rozwiązań do celów biznesowych.",
   "label.projects.category.title": "Projekt: ",
-  "label.projects.category.period": "Doświadczenie: "
+  "label.projects.category.period": "Doświadczenie: ",
+  "label.date_time.now": "Obecnie"
 }

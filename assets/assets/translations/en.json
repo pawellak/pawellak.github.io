@@ -43,5 +43,6 @@
   "label.projects.title": "Executed projects",
   "label.projects.description": "I consistently approach problem-solving with a clear focus on aligning solutions with the business objectives",
   "label.projects.category.title": "Project: ",
-  "label.projects.category.period": "Experience: "
+  "label.projects.category.period": "Experience: ",
+  "label.date_time.now": "Present"
 }
