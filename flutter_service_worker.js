@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"flutter_bootstrap.js": "cc3db030503f10341623ce9c90c521b5",
+const RESOURCES = {"flutter_bootstrap.js": "9f14c03a327c0183e63cbd4985e5eff2",
 "version.json": "fa42ca95e3110051818ec1c39dcc641b",
 "splash/img/light-2x.png": "73dfff7fb00cc419a6d380ea7a19fe92",
 "splash/img/dark-4x.png": "c4745f938d3465f4794356d4cbbfa602",
@@ -106,8 +106,8 @@ const RESOURCES = {"flutter_bootstrap.js": "cc3db030503f10341623ce9c90c521b5",
 "assets/assets/images/companies/2x/pwr.png": "a5a19bd666a6baefa2fb67bb941ea2ec",
 "assets/assets/images/companies/2x/sygnisoft.png": "292a48401c41e78f57acbb4e118dc580",
 "assets/assets/images/companies/2x/ecoplan.png": "830baf728b452d893c5d7cfded11b192",
-"assets/assets/features/curriculum_vitae/data/pl.json": "f4e162bd8781aa5ae993c6cb8093afdd",
-"assets/assets/features/curriculum_vitae/data/en.json": "60b61376e71212ea54aac836e81fd80c",
+"assets/assets/features/curriculum_vitae/data/pl.json": "3513d8e71de865f9b7070904558ab29c",
+"assets/assets/features/curriculum_vitae/data/en.json": "423e0254dabf4fca2211d0f6c3e4d81e",
 "assets/assets/features/project_list/data/pl.json": "9dfe9e9bce988bd44e92204b049a6502",
 "assets/assets/features/project_list/data/en.json": "aa8d98d4808c403121758f2f0e16b474",
 "assets/assets/lottie/loading.json": "54c2eea997f9d6100da004950ecb75bc",
