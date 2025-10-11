@@ -48,7 +48,7 @@
       "advantages": "Flutter | Android | iOS | IoT | Web | A total of over 450,000 satisfied users",
       "additional": "",
       "imageUrl": "assets/images/project_list/portfolio.png",
-      "dateStart": "2021-01-01T01:00:00.000",
+      "dateStart": "2025-07-01T01:00:00.000",
       "dateEnd": null
     },
     {
@@ -88,7 +88,7 @@
       "advantages": "Apartment Management | RaspberryPi | Internet of Things",
       "additional": "",
       "imageUrl": "assets/images/project_list/pico.png",
-      "dateStart": "2025-10-09T01:00:00.000",
+      "dateStart": "2025-09-09T01:00:00.000",
       "dateEnd": null
     },
     {
@@ -118,7 +118,7 @@
       "advantages": "Hundreds of hours of courses, training, and industry meetups",
       "additional": "",
       "imageUrl": "assets/images/project_list/udemy.png",
-      "dateStart": "2025-10-10T01:00:00.000",
+      "dateStart": "2021-01-10T01:00:00.000",
       "dateEnd": null
     }
   ]
