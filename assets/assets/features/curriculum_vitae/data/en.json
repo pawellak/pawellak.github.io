@@ -3,7 +3,7 @@
   "result": [
     {
       "id": "0",
-      "title": "My Enea",
+      "title": "Moja Enea",
       "description": "Architecture & Scalability:",
       "advantages": "Flutter (BLoC) | 200+ Views | Native Integrations | Scalability",
       "additional": "Lead developer on a project for over 350k users with 4.7 rating",
@@ -16,39 +16,39 @@
       "title": "ID Logistics",
       "description": "Solutions for Industry:",
       "advantages": "Issue Reporting | Zebra Scanner | Flutter | Native Android",
-      "additional": "Winner of the 'The Factory 2023' international competition.",
+      "additional": "Winner of the 'The Factory 2023' international competition",
       "imageUrl": "assets/images/project_list/idlogistics.png",
       "dateStart": "2023-09-01T01:00:00.000",
       "dateEnd": "2024-02-01T01:00:00.000"
     },
     {
       "id": "2",
-      "title": "Nuclear Power Lexicon",
+      "title": "Leksykon EJ",
       "description": "Application Features:",
       "advantages": "Translations | Digital Accessibility | History | Dictionary | Figma",
-      "additional": "A bilingual lexicon of nuclear industry terms with offline access.",
+      "additional": "A bilingual lexicon of nuclear industry terms with offline access",
       "imageUrl": "assets/images/project_list/leksykon.png",
       "dateStart": "2022-06-01T01:00:00.000",
       "dateEnd": "2022-08-01T01:00:00.000"
     },
     {
       "id": "3",
-      "title": "Portfolio",
-      "description": "About Me:",
-      "advantages": "Flutter | Android | iOS | IoT | Web | A total of over 450,000 satisfied users.",
-      "additional": "",
-      "imageUrl": "assets/images/project_list/portfolio.png",
-      "dateStart": "2021-01-01T01:00:00.000",
-      "dateEnd": null
-    },
-    {
-      "id": "4",
       "title": "Warsaw Marathon",
       "description": "Application Features:",
       "advantages": "Race Registrations | Authorization | Shopping | History | Social Login | MVP | Onboarding",
       "additional": "",
       "imageUrl": "assets/images/project_list/maraton.png",
       "dateStart": "2025-06-01T01:00:00.000",
+      "dateEnd": null
+    },
+    {
+      "id": "4",
+      "title": "Portfolio",
+      "description": "About Me:",
+      "advantages": "Flutter | Android | iOS | IoT | Web | A total of over 450,000 satisfied users",
+      "additional": "",
+      "imageUrl": "assets/images/project_list/portfolio.png",
+      "dateStart": "2021-01-01T01:00:00.000",
       "dateEnd": null
     },
     {
@@ -85,7 +85,7 @@
       "id": "8",
       "title": "Smart Home",
       "description": "IoT Solutions:",
-      "advantages": "Apartment Management | Raspberry Pi | Internet of Things",
+      "advantages": "Apartment Management | RaspberryPi | Internet of Things",
       "additional": "",
       "imageUrl": "assets/images/project_list/pico.png",
       "dateStart": "2025-10-09T01:00:00.000",
@@ -105,7 +105,7 @@
       "id": "10",
       "title": "Prototypes & R&D",
       "description": "Key Technologies:",
-      "advantages": "Dozens of prototypes exploring new technologies and solutions.",
+      "advantages": "Dozens of prototypes exploring new technologies and solutions",
       "additional": "",
       "imageUrl": "assets/images/project_list/prototypes.png",
       "dateStart": "2021-01-01T01:00:00.000",
@@ -115,7 +115,7 @@
       "id": "11",
       "title": "Education & Development",
       "description": "Continuous Improvement:",
-      "advantages": "Hundreds of hours of courses, training, and industry meetups.",
+      "advantages": "Hundreds of hours of courses, training, and industry meetups",
       "additional": "",
       "imageUrl": "assets/images/project_list/udemy.png",
       "dateStart": "2025-10-10T01:00:00.000",
