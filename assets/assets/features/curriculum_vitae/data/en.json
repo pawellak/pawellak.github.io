@@ -45,7 +45,7 @@
       "id": "4",
       "title": "Portfolio",
       "description": "About Me:",
-      "advantages": "Flutter | Android | iOS | IoT | Web | A total of over 450,000 satisfied users",
+      "advantages": "Flutter | Android | iOS | IoT | Web\n A total of over 450,000 satisfied users",
       "additional": "",
       "imageUrl": "assets/images/project_list/portfolio.png",
       "dateStart": "2025-07-01T01:00:00.000",
