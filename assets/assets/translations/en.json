@@ -5,8 +5,8 @@
   "label.about_me.description_short_1": "Experienced <bold>Senior Flutter Developer</bold> with nearly 5 years of experience specializing in the design and implementation of <bold>secure and high-performance financial applications</bold> (iOS, Android, Web).",
   "label.about_me.description_short_2": "Independently delivered production-ready mobile solutions for <bold>450K+ users</bold>, including the <bold>Moja Enea</bold> app (350K+ users, 4.7/5.0 rating), enabling <bold>bill payments and account management</bold> with a strong focus on stability and performance.",
   "label.about_me.description_short_3": "An <bold>award-winning mobile developer</bold> — created a warehouse management application that won the international innovation competition <bold>'The Factory 2023'</bold>, outperforming 20+ teams worldwide.",
-  "label.about_me.description_short_4": "Experienced in <bold>API integrations</bold>, <bold>security best practices</bold>, and <bold>continuous delivery</bold>, ensuring stable, scalable, and maintainable mobile banking solutions that meet enterprise standards.",
-  "label.about_me.description_short_5": "Collaborates closely with <bold>business and IT teams</bold> to translate complex requirements into <bold>efficient, maintainable, and user-focused financial solutions</bold>, following <bold>Scrum</bold> methodology.",
+  "label.about_me.description_short_4": "I have experience in <bold>API integration</bold>, <bold>application security</bold>, and <bold>(CI/CD)</bold>, delivering stable, scalable, and maintainable mobile solutions.",
+  "label.about_me.description_short_5": "I specialize in <bold>Flutter</bold>, but I also enjoy experimenting with <bold>new technologies</bold> such as <bold>IoT</bold>, <bold>BLE</bold>, <bold>Raspberry Pi</bold>, <bold>AI coding</bold>, and rapid <bold>PoC</bold> prototyping. Additionally, I am interested in <bold>consumer electronics</bold>, <bold>hardware integration with mobile applications</bold>, and <bold>process automation using AI</bold>.",
   "label.about_me.education.title": "Education",
   "label.about_me.education.eng.degree": "Bachelor of Engineering",
   "label.about_me.education.eng.institution": "Wrocław University of Science and Technology",
@@ -70,6 +70,6 @@
   "label.cv.section.tech_stack": "Tech Stack",
   "label.cv.section.skill": "Programming Skills",
   "label.cv.section.tech_stack_1": "Flutter | Dart | BLoC/Cubit | Provider | Stream | Go Router | Firebase | REST API | Testing | Kotlin (Android) | Swift (iOS) | Dio | Platform Channels & Views | Performance | Code Reuse | Modularization | Clean Architecture | Injectable | Security | Bash Script | AI Coding",
-  "label.cv.section.tech_stack_2": "Secure Authentication | Payment Workflows | Data Encryption | Error Tracking | Analytics | i18n | Accessibility | UX/UI | App Architecture | Automated Builds | Scalability",
+  "label.cv.section.tech_stack_2": "Secure | Bluetooth | Payment Workflows | Data Encryption | Error Tracking | Analytics | i18n | Accessibility | UX/UI | App Architecture | AI | Electronics | Automated Builds | Scalability",
   "label.cv.section.tech_stack_3": "Git | GitHub | GitLab | CI/CD | Figma | Jira | Code Reviews | Mentoring | App Store & Play Store & Firebase Deployment | Maintenance | Crashlytics | Scrum | Team Collaboration"
 }
