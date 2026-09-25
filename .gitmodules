@@ -1,0 +1,4 @@
+[submodule "pawellak.github.io"]
+	path = pawellak.github.io
+	url = https://github.com/pawellak/pawellak.github.io.git
+	branch = main
